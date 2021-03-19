@@ -96,7 +96,9 @@ analytics:
 author:
   name             : "HeeChan Kwon"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 여기 바뀜
-  bio              : "Christian. \nUTS-Mechatronics Engineering. \nROKMC兵1238期"
+  bio              : "Christian\n"
+                     "UTS-Mechatronics Engineering \n"
+                     "ROKMC兵1238期"
   location         : "South Korea"
   email            : "heechan6431@gmail.com"
   links:
