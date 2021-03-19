@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "HeeChan Kwon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 여기 바뀜
   bio              : "Christian. \nUTS-Mechatronics Engineering. \nROKMC兵1238期"
   location         : "South Korea"
   email            : "heechan6431@gmail.com"
@@ -114,7 +114,7 @@ author:
       url: "https://www.facebook.com/hee.c.kwon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://HeeChan-K97.github.com/"
+      url: "https://HeeChan-K97.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/khc0501/"
@@ -130,7 +130,7 @@ footer:
       url: "https://www.facebook.com/hee.c.kwon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:  "https://HeeChan-K97.github.com/"
+      url:  "https://HeeChan-K97.github.io/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
