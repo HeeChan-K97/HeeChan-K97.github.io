@@ -97,12 +97,12 @@ author:
   name             : "HeeChan Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Christian \nUTS-Mechatronics Engineering \nROKMC兵1238期"
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea"
+  email            : "heechan6431@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "heechan6431@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,13 +111,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/hee.c.kwon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://HeeChan-K97.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/khc0501/"
 
 # Site Footer
 footer:
@@ -127,10 +127,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/hee.c.kwon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:  "https://HeeChan-K97.github.com/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:  "https://www.instagram.com/khc0501/"
 
 
 # Reading Files
