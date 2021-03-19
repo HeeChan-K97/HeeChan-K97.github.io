@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "HC's Mechatronic Shake"
 title_separator          : "-"
-subtitle                 : "Keep doing. Keep trying. Don't settle. Stacking my knowledge everyday every second to become a better one." # site tagline that appears below site title in masthead
+subtitle                 : "Keep doing. Keep trying. Don't settle. Stacking my knowledge everyday, every second to become a better one." # site tagline that appears below site title in masthead
 name                     : "HeeChan Kwon"
-description              : "An amazing website."
+description              : "Warm hug by HC blog"
 url                      : "https://HeeChan-K97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
