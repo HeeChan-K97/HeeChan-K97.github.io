@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "HeeChan Kwon"
-  avatar           : "/assets/images/https://t1.daumcdn.net/cfile/blog/2434C3375493FEB82E" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 여기 바뀜
+  avatar           : #"/assets/images/https://t1.daumcdn.net/cfile/blog/2434C3375493FEB82E" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 여기 바뀜
   bio              : "UTS-Mechatronics Engineering"
   location         : "South Korea"
   email            : "heechan6431@gmail.com"
